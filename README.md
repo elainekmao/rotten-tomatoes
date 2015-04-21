@@ -25,7 +25,7 @@ Time spent: `8`
 - [ ] Add a search bar: pretty simple implementation of searching against the existing table view data.
 
 ### Walkthrough
-![Video Walkthrough](rotten_tomatoes.gif)
+![Video Walkthrough](Rotten Tomatoes/rotten_tomatoes.gif)
 
 Credits
 ---------
